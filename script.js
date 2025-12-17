@@ -85,7 +85,7 @@ const products = [
 // ========================================
 // Put your own email address here. All inquiries and order details will go to this email.
 // Example: const CONTACT_EMAIL = "yourmail@example.com";
-const CONTACT_EMAIL = "abhimamgai5@gmail.com";
+const CONTACT_EMAIL = "unimaxagrochemicalshisar@gmail.com";
 
 // ========================================
 // UTILITIES & STORAGE HELPERS
@@ -701,5 +701,6 @@ document.addEventListener("DOMContentLoaded", () => {
         initOrderSuccessPage();
     }
 });
+
 
 
